@@ -1,4 +1,4 @@
-# Homewrork1
+# Homework1
 #Target Finding
 
 This program aims to find the target number in a given sequence of numbers. If the target number is found in the array, the program prints its index.
